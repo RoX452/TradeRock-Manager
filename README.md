@@ -1,7 +1,7 @@
 # TradeRock Manager
 
 <p align="center">
-  <img src="screenshots/screenshot 1.png" width="500" alt="TradeRock UI">
+  <img src="screenshots/screenshot 1.png" width="400" alt="TradeRock UI">
 </p>
 <p align="center">
   <img src="screenshots/screenshot 2.png" width="400" alt="Feature 1">
