@@ -1,10 +1,10 @@
 # TradeRock Manager
 
 <p align="center">
-  <img src="screenshots/screenshot 1.png" width="400" alt="TradeRock UI">
+  <img src="screenshots/screenshot 1.png" width="280" alt="TradeRock UI">
 </p>
 <p align="center">
-  <img src="screenshots/screenshot 2.png" width="400" alt="Feature 1">
+  <img src="screenshots/screenshot 2.png" width="500" alt="Feature 1">
   <img src="screenshots/screenshot 3.png" width="400" alt="Feature 2">
 </p>
 <p align="center">
@@ -12,7 +12,7 @@
   <img src="screenshots/screenshot 5.png" width="400" alt="Feature 4">
 </p>
 <p align="center">
-  <img src="screenshots/screenshot 6.png" width="800" alt="Overview">
+  <img src="screenshots/screenshot 6.png" width="600" alt="Overview">
 </p>
 Una herramienta avanzada para la gestión de riesgo y administración de operaciones en MetaTrader 5. 
 
